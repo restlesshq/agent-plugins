@@ -3,12 +3,21 @@
   "name": "ai.restless/restless",
   "title": "Restless",
   "description": "Monitor API usage, fix docs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://build.restless.ai",
   "repository": {
     "url": "https://github.com/restlesshq/agent-plugins",
     "source": "github"
   },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/restlesshq/agent-plugins/HEAD/codex/assets/logo.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "1024x1024"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",

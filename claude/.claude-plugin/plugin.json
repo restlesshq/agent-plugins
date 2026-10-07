@@ -1,6 +1,6 @@
 {
   "name": "restless",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Monitor API usage, fix docs",
   "author": {
     "name": "Restless",
@@ -12,5 +12,8 @@
     "restless",
     "api",
     "mcp"
-  ]
+  ],
+  "license": "MIT",
+  "privacyPolicyUrl": "https://www.restless.ai/privacy",
+  "icon": "assets/logo.png"
 }

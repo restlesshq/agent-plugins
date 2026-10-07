@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "restless",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Monitor API usage, fix docs",
   "author": {
     "name": "Restless",
@@ -9,6 +9,7 @@
   },
   "homepage": "https://build.restless.ai",
   "repository": "https://github.com/restlesshq/agent-plugins",
+  "license": "MIT",
   "keywords": [
     "restless",
     "api",

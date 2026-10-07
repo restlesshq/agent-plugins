@@ -1,7 +1,7 @@
 {
   "name": "restless",
   "displayName": "Restless",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Monitor API usage, fix docs",
   "author": {
     "name": "Restless",
@@ -9,6 +9,7 @@
   },
   "homepage": "https://build.restless.ai",
   "repository": "https://github.com/restlesshq/agent-plugins",
+  "license": "MIT",
   "logo": "assets/logo.png",
   "keywords": [
     "restless",
