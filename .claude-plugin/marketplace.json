@@ -1,0 +1,17 @@
+{
+  "name": "restless",
+  "description": "Restless plugins for Claude",
+  "owner": {
+    "name": "Restless",
+    "email": "support@restless.ai"
+  },
+  "plugins": [
+    {
+      "name": "restless",
+      "description": "Monitor API usage, fix docs",
+      "category": "development",
+      "source": "./claude",
+      "homepage": "https://build.restless.ai"
+    }
+  ]
+}

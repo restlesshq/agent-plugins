@@ -1,0 +1,16 @@
+{
+  "name": "restless",
+  "version": "1.0.0",
+  "description": "Monitor API usage, fix docs",
+  "author": {
+    "name": "Restless",
+    "email": "support@restless.ai"
+  },
+  "homepage": "https://build.restless.ai",
+  "repository": "https://github.com/restlesshq/agent-plugins",
+  "keywords": [
+    "restless",
+    "api",
+    "mcp"
+  ]
+}

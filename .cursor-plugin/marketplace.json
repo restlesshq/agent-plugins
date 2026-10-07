@@ -1,0 +1,17 @@
+{
+  "name": "restless",
+  "owner": {
+    "name": "Restless",
+    "email": "support@restless.ai"
+  },
+  "metadata": {
+    "description": "Restless plugins for AI coding agents"
+  },
+  "plugins": [
+    {
+      "name": "restless",
+      "source": "cursor",
+      "description": "Monitor API usage, fix docs"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "restless",
+  "interface": {
+    "displayName": "Restless"
+  },
+  "plugins": [
+    {
+      "name": "restless",
+      "source": {
+        "source": "local",
+        "path": "./codex"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
