@@ -5,7 +5,7 @@ description: "Use for any task involving the Restless API: monitor API usage, fi
 
 # Restless
 
-Read and manage your API's observability and documentation: request logs, end-user error rates, top endpoints, time-series metrics, docs content, use cases, context items, recovery messages, GitHub data sources, and agent feedback. An agent can trace a spike in failed requests to the log that proves it, find users whose error rates are climbing, turn confused-agent feedback into a docs edit and close it out, and attach recovery guidance to recurring errors. Writes are refused for read-only keys.
+See how your API behaves in production and fix what's breaking, without leaving your agent. Trace a spike in failed requests to the exact log behind it, find the users hitting the most errors, and turn feedback from confused agents into docs fixes. Keep your docs and recovery guidance current as you go.
 
 The `restless` MCP server bundled with this plugin is the source of truth for this API. Answer from it, not from memory: endpoint shapes, docs, and the user's own traffic all come from its tools.
 

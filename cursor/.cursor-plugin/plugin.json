@@ -1,7 +1,7 @@
 {
   "name": "restless",
   "displayName": "Restless",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Monitor API usage, fix docs",
   "author": {
     "name": "Restless",

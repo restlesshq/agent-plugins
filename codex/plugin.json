@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "restless",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Monitor API usage, fix docs",
   "author": {
     "name": "Restless",
@@ -19,7 +19,7 @@
       "interface": {
         "displayName": "Restless",
         "shortDescription": "Monitor API usage, fix docs",
-        "longDescription": "Read and manage your API's observability and documentation: request logs, end-user error rates, top endpoints, time-series metrics, docs content, use cases, context items, recovery messages, GitHub data sources, and agent feedback. An agent can trace a spike in failed requests to the log that proves it, find users whose error rates are climbing, turn confused-agent feedback into a docs edit and close it out, and attach recovery guidance to recurring errors. Writes are refused for read-only keys.",
+        "longDescription": "See how your API behaves in production and fix what's breaking, without leaving your agent. Trace a spike in failed requests to the exact log behind it, find the users hitting the most errors, and turn feedback from confused agents into docs fixes. Keep your docs and recovery guidance current as you go.",
         "developerName": "Restless",
         "category": "Productivity",
         "logo": "./assets/logo.png",

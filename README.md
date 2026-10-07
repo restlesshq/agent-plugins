@@ -1,6 +1,6 @@
 # Restless agent plugins
 
-Read and manage your API's observability and documentation: request logs, end-user error rates, top endpoints, time-series metrics, docs content, use cases, context items, recovery messages, GitHub data sources, and agent feedback. An agent can trace a spike in failed requests to the log that proves it, find users whose error rates are climbing, turn confused-agent feedback into a docs edit and close it out, and attach recovery guidance to recurring errors. Writes are refused for read-only keys.
+See how your API behaves in production and fix what's breaking, without leaving your agent. Trace a spike in failed requests to the exact log behind it, find the users hitting the most errors, and turn feedback from confused agents into docs fixes. Keep your docs and recovery guidance current as you go.
 
 Each plugin connects an AI coding agent to the Restless MCP server at `https://build.restless.ai/mcp`. Sign-in happens in the browser the first time an agent makes a real call, so there are no API keys to configure.
 
